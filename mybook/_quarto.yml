@@ -6,6 +6,7 @@ book:
   title: "데일리 스토익 저널"
   author: "라이언 홀리데이, 스티븐 핸슬먼"
   date: "2026-01-31"
+  sidebar: false
   chapters:
     - index.qmd
     - references.qmd
@@ -19,6 +20,8 @@ format:
     theme:
       - default
       - brand
+    css: styles.css
+    sidebar: false
 
 execute:
   freeze: auto

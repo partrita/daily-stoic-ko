@@ -1,0 +1,8 @@
+#quarto-sidebar, .quarto-sidebar-toggle {
+  display: none !important;
+}
+
+#quarto-content {
+  margin-left: 0 !important;
+  width: 100% !important;
+}
