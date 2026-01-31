@@ -3,14 +3,11 @@ project:
   output-dir: docs
 
 book:
-  title: "mybook"
+  title: "Daily Stoic"
   author: "Norah Jones"
-  date: "1/24/2026"
+  date: "2026-01-31"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
 
 bibliography: references.bib
 
