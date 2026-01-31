@@ -4,10 +4,12 @@ project:
 
 book:
   title: "Daily Stoic"
-  author: "Norah Jones"
+  author: "라이언 홀리데이, 스티븐 핸슬먼"
+  number-sections: false
   date: "2026-01-31"
   chapters:
     - index.qmd
+    - references.qmd
 
 bibliography: references.bib
 
